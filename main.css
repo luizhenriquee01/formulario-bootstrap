@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  padding: 5%;
+  background-color: #92b3d0;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-transform: Uppercase;
+}
+header img {
+  width: 100px;
+  margin-left: 5%;
+}
+form label {
+  margin-top: 10px;
+}
+.btn {
+  margin-top: 10px;
+}
